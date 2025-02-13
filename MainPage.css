@@ -42,7 +42,7 @@
 }
 .container{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: left;
     min-height: 1000px;
     flex-wrap: wrap;
