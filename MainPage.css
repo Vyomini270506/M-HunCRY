@@ -42,8 +42,7 @@
 }
 .container{
     display: flex;
-    flex-direction: column;
-    justify-content: left;
+    flex-direction: row;
     min-height: 1000px;
     flex-wrap: wrap;
 }
