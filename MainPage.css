@@ -51,8 +51,8 @@
     /* background-image:linear-gradient(indigo,pink,violet,pink,white); */
     display:flex;
     border-radius: 25px;
-    height:400px;
-    width: 350px;
+    height:fit-content;
+    width: fit-content;
     padding-top:40px;
     margin-left: 60px;
     flex-shrink:0;
