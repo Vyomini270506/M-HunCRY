@@ -61,9 +61,6 @@
 .con{
      /* background-image:linear-gradient(indigo,pink,violet,pink,white); */
      border-radius: 25px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap:wrap;
     flex-grow:4;
     height:fit-content;
     width:1000px;
