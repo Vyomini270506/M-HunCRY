@@ -1,9 +1,4 @@
-@media screen and (max-width: 600px) {
-    .nav{
-      float: none;
-      width: 100%;
-    }
-  }
+
 .background{
     background-image: url("food.jpg"); /* Replace with your image path */
     background-size: cover;
